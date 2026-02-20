@@ -193,7 +193,7 @@ async def about(ctx):
 	        "for Youtube and Spotify music links.\n\n"
             "⏺  **Default prefix:** `libre!`\n"
             "⏺  **License:** [GNU GPL v2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)\n"
-            "⏺  **Source code:** publicly available at https://github.com/allesklarrr/LibreStation"
+            "⏺  **Source code:** publicly available at https://github.com/grassleaff/LibreStation"
         ),
         color=discord.Color.green()
     )
